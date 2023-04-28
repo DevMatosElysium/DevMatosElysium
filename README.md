@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pedro Henrique
-- 👀 I'm currently interested in creating HTML pages using ready-made models in FIGMA, to improve myself in the area!
+- 👀 I'm currently interested in creating HTML pages using ready-made models in FIGMA, to improve myself in the front-end!
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on medium-sized companies, to receive the necessary education and learn to program in a team.
 - 📫 You can reach me via email: pmatos03@icloud.com
